@@ -22,7 +22,7 @@ public class Proyecto_Parcial01 {
         System.out.println("\nResultados:");
         System.out.println("Empleado: " + nombre);
         System.out.println("Sueldo Bruto: " + sueldoBruto);
-        System.out.println("Descuento (ONP): " + descuento);
+        System.out.println("Descuento : " + descuento);
         System.out.println("Sueldo Neto: " + sueldoNeto);   
         scanner.close(); 
     }
